@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueTS.CLI", "TrueTS.CLI\TrueTS.CLI.csproj", "{95AE6B9F-4149-4C40-8C23-9D22580F8FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueTS.Syntax", "TrueTS.Syntax\TrueTS.Syntax.csproj", "{E10FA097-E393-4D2A-AAF1-BEFAB0043E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AE6B9F-4149-4C40-8C23-9D22580F8FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AE6B9F-4149-4C40-8C23-9D22580F8FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AE6B9F-4149-4C40-8C23-9D22580F8FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AE6B9F-4149-4C40-8C23-9D22580F8FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10FA097-E393-4D2A-AAF1-BEFAB0043E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10FA097-E393-4D2A-AAF1-BEFAB0043E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10FA097-E393-4D2A-AAF1-BEFAB0043E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10FA097-E393-4D2A-AAF1-BEFAB0043E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

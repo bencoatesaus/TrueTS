@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Text\" />
+    <Folder Include="Text\Extensions\" />
+    <Folder Include="Parse\" />
+    <Folder Include="Text\Models\" />
+    <Folder Include="Parse\Models\" />
+    <Folder Include="Text\Models\Exceptions\" />
+    <Folder Include="Parse\Models\Expression\" />
+  </ItemGroup>
+</Project>
